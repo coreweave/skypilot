@@ -2,3 +2,5 @@ torch
 torchvision
 wandb
 absl-py
+gitpython>=3.1.33 # not directly required, pinned by Snyk to avoid a vulnerability
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
